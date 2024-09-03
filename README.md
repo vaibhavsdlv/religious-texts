@@ -3,4 +3,8 @@ A collection of Hinduism/Sanatan Dharma religious texts. Copyright with appropri
 
 # Puranas
 
-Added to folder [Puranas](Puranas). Listing available [here](Puranas/Purana-listing.md)
+Added to folder [Puranas](Puranas). Listing available [here](Puranas/Purana-listing.md).
+
+# Bhagvad-geeta
+
+Added a various bhagwad-geeta versions and interpretations [here](Bhagwadgeeta). 
