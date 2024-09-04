@@ -7,4 +7,8 @@ Added to folder [Puranas](Puranas). Listing available [here](Puranas/Purana-list
 
 # Bhagvad-geeta
 
-Added a various bhagwad-geeta versions and interpretations [here](Bhagwadgeeta). Geeta Listing [here](Bhagwadgeeta/Geeta-listing.md)
+Added a various bhagwad-geeta versions and interpretations [here](Bhagwadgeeta). Geeta Listing [here](Bhagwadgeeta/Geeta-listing.md).
+
+# Mahabharat
+
+Added various versions of Mahabharat [here](Mahabharat). Listing available [here](Mahabharat/Mahabharat-listing.md).
