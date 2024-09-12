@@ -20,3 +20,7 @@ Added various versions of Ramayan [here](Ramayan). Listing available [here](Rama
 # Ved
 
 Added various Veda's [here](Ved). Listing available [here](Ved/00_Ved-listing.md).
+
+# Shruti-Samhita
+
+Added Shruti-Samhita [here](Shruti-Samhita).
