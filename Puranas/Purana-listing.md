@@ -37,7 +37,7 @@
 | 33 | Surya Puran | सूर्य पुराण | NA |
 | 34 | Parasara Puran | पराशर पुराण | NA |
 | 35 | Vasishtha Puran | वशिष्ठ पुराण | NA |
-| 36 | Ganesha Puran | गणेश पुराण | NA |
+| 36 | Ganesha Puran | गणेश पुराण | [Download](36_Ganesh puran.pdf) |
 | 37 | Mudgala Puran | मुद्गल पुराण | NA |
 | 38 | Kalki Puran | कल्की पुराण | [Download](38_kalkipuranhindi.pdf)|
 | 39 | Nilmat Puran | निलमत पुराण | [Download](39_nilamata_purana.pdf) |
