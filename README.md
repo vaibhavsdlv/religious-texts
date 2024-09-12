@@ -16,3 +16,7 @@ Added various versions of Mahabharat [here](Mahabharat). Listing available [here
 # Ramayan
 
 Added various versions of Ramayan [here](Ramayan). Listing available [here](Ramayan/00_Ramayan-listing.md).
+
+# Ved
+
+Added various Veda's [here](Ved). Listing available [here](Ved/00_Ved-listing.md).
