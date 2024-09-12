@@ -12,3 +12,7 @@ Added a various bhagwad-geeta versions and interpretations [here](Bhagwadgeeta).
 # Mahabharat
 
 Added various versions of Mahabharat [here](Mahabharat). Listing available [here](Mahabharat/Mahabharat-listing.md).
+
+# Ramayan
+
+Added various versions of Ramayan [here](Ramayan). Listing available [here](Ramayan/00_Ramayan-listing.md).
