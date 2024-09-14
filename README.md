@@ -21,6 +21,10 @@ Added various versions of Ramayan [here](Ramayan). Listing available [here](Rama
 
 Added various Veda's [here](Ved). Listing available [here](Ved/00_Ved-listing.md).
 
+# Upanishad
+
+Added various upanishad's [here](Upanishad). Listing available [here](Upanishad/00_upanishad-listing.md).
+
 # Shruti-Samhita
 
 Added Shruti-Samhita [here](Shruti-Samhita).
