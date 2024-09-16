@@ -8,10 +8,10 @@
 | 4 | Rigved | Samanya | Mudgala |
 | 5 | Rigved | Sannyasa | Nirvana |
 | 6 | Rigved | Sakta | Tripura |
-| 7 | Rigved | Sakta | Saubhagyalakshmi |
-| 8 | Rigved | Sakta | Bahvrca |
+| 7 | Rigved | Sakta | Saubhagyalakshmi* |
+| 8 | Rigved | Sakta | Bahvrca* |
 | 9 | Rigved | Saiva | Aksamalika |
-| 10 | Rigved | Yoga | Nadabindu |
+| 10 | Rigved | Yoga | Nadabindu* |
 | 11 | Samaved | Mukhya | Chandogya |
 | 12 | Samaved | Mukhya | Kena |
 | 13 | Samaved | Samanya | Vajrasuchi |
@@ -150,3 +150,9 @@
 | 33 | Yoga Upanishad Sanskrit | योग उपनिषद संस्कृत | [Download](033_The-Yoga_upanishads_sanskrit.pdf) |
 | 34 | Dasopanishad vol. 1 Sanskrit | दासोपनिषद भाग १ | [Download](034_Dasopanishads-vol1-sanskrit-with-sanskrit-summary.pdf) |
 | 35 | Dasopanishad vol. 2 Sanskrit | दासोपनिषद भाग २ | [Download](035_Dasopanishads-vol2-sanskrit-with-sanskrit-summary.pdf) |
+| 36 | Atmabodha Upanishad Sanskrit | आत्मबोध उपनिषद संस्कृत | [Download](036_aatmabodha_upanishad-sanskrit.pdf) |
+| 37 | Atmabodha Upanishad Tamil | आत्मबोध उपनिषद तमिळ | [Download](037_aatmabodha_upanishad-tamil.pdf) |
+| 38 | Akshamalika Upanishad Sanskrit | अक्षमलिक उपनिषद संस्कृत | [Download](038_akshamalika-upanishad-sanskrit.pdf) |
+| 39 | Chandogya Upanishad English | छंदोग्य उपनिषद इंग्लिश | [Download](039_chandogya_upanishad-english.pdf) |
+| 40 | Kena Upanishad Tamil | केनोपनिषद तामिळ | [Download](040_Kena-Upanishad-tamil.pdf) |
+| 41 | Kena Upanishad Sanskrit Hindi | केनोपनिषद संस्कृत हिंदी | [Download](041_keno_upnishad_sanskrit_hindi.pdf) |
