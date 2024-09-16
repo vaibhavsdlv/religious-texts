@@ -111,15 +111,11 @@
 | 107 | Atharvaved | Yoga | Pasupata |
 | 108 | Atharvaved | Yoga | Mahavakya |
 
-
-
-
-
 # Listing of Upanishad
 
 | Sr # | Title | Title in Marathi | Link | Description |
 |---|---|---|---|---|
-| 1 |  108 Upanishads in English | १०८ उपनिषद भाषा इंग्लिश | [Download](001_108-upanishads-english.pdf) |
+| 1 | 108 Upanishads in English | १०८ उपनिषद भाषा इंग्लिश | [Download](001_108-upanishads-english.pdf) |
 | 2 | Aitareya Upanishad sanskrit to english | ऐतरेय उपनिषद संस्कृत ते इंग्लिश | [Download](002_Aitareya_Upanishad-sanskrit-to-english-with-summary.pdf) |
 | 3 | Aitareya Upanishad English | ऐतरेय उपनिषद इंग्लिश | [Download](003_AitareyataittiriyaUpanishadsWithShankaraBhashya-English.pdf) |
 | 4 | Aitareya Upanishad Sanskrit to English | ऐतरेय उपनिषद संस्कृत ते इंग्लिश | [Download](004_Aitareya-Upanishad-sanskrit-to-english-with-Summary.pdf) |
@@ -134,3 +130,23 @@
 | 13 | Kaushitaki Upanishad Sanskrit with summary | कौशितकी उपनिषद संस्कृत | [Download](013_kaushitaki-upanishad-sanskrit-with-summary.pdf) |
 | 14 | Kaushitaki Upanishad Sanskrit with summary | कौशितकी उपनिषद संस्कृत | [Download](014_Kaushitaki-Brahmanopnishat-sanskrit-with-sanskrit-summary.pdf) |
 | 15 | Atmabodha Upanishad Tamil | आत्मबोध उपनिषद तमिळ | [Download](015_Atmabodha-Upanishat-tamil.pdf) |
+| 16 | Atmabodha Upanishad Sanskrit English | आत्मबोध उपनिषद संस्कृत इंग्लिश | [Download](016_Atmabodha-upanishad-Class-Notes.pdf) |
+| 17 | Atmabodha Upanishad Sanskrit Hindi | आत्मबोध उपनिषद संस्कृत हिंदी | [Download](017_aatmabodha-upanishad-sanskrit-hindi.pdf) |
+| 18 | Atmabodha Upanishad Sanskrit English | आत्मबोध उपनिषद संस्कृत इंग्लिश | [Download](018_Atmabodha-Upanishad.pdf) |
+| 19 | Multiple Upanishad Marathi | 9 मुख्य उपनिषद मराठी | [7Zip Pt.1](019-multiple-Upanishad-Marathi-Daptari-K.L.-Purva-Ardha.7z.001) [7Zip Pt.2](019-multiple-Upanishad-Marathi-Daptari-K.L.-Purva-Ardha.7z.002) [7Zip Pt.3](019-multiple-Upanishad-Marathi-Daptari-K.L.-Purva-Ardha.7z.003) [7Zip Pt.4](019-multiple-Upanishad-Marathi-Daptari-K.L.-Purva-Ardha.7z.004) [7Zip Pt.5](019-multiple-Upanishad-Marathi-Daptari-K.L.-Purva-Ardha.7z.005) |
+| 20 | Multiple The Upanishads by Swami Premenanda | उपनिषद ले. स्वामी प्रेमानंद | [Download](020_multiple_the_upanishads_swami_premananda_english.pdf) |
+| 21 | Multiple Upanishad F Max Mueller | उपनिषद ले. मॅक्सम्युलर | [Download](021_multiple-upanishad-english-translation-without-sanskrit-text.pdf) |
+| 22 | 10 upanishad English | १० उपनिषद इंग्लिश | [Download](022_the-ten-principal-upanishads_english.pdf) |
+| 23 | Upanishads Aurobindo Shashtri Institute | उपनिषद औरोबिंदो इंस्टीट्यूट | [Download](023_upanishads-aurobindo-shastri-institute-english.pdf) |
+| 24 | Mudgala Upanishad Sanskrit | मुदगल उपनिषद संस्कृत | [Download](024_mudgala_upanishad.pdf) |
+| 25 | Mudgala Upanishad Portugese | मुदगल उपनिषद पॉर्चुगीज | [Download](025_Mudgala_Upanishad-portugese.pdf) |
+| 26 | 8 Upanishads Sanskrit | ८ उपनिषद संस्कृत | [7Zip Pt.1](026_8-upanishads-sanskrit-with-upanishad-brahmam-commentary.7z.001) [7Zip Pt.2](026_8-upanishads-sanskrit-with-upanishad-brahmam-commentary.7z.002) |
+| 27 | Nirvana Upanishad Sanskrit Hindi | निर्वाण उपनिषद संस्कृत हिंदी | [Download](027_nirvana_upanishad.pdf) |
+| 28 | Nirvana Upanishad Tamil | निर्वाण उपनिषद तमिळ | [Download](028_nirvana-upanishad-tamil.pdf) |
+| 29 | Nirvana Upanishad Sanskrit | निर्वाण उपनिषद संस्कृत | [Download](029_nirvana_upanishad_sanskrit.pdf) |
+| 30 | 108 Upanishad Malayalam | १०८ उपनिषद मल्याळी | [Download](030_108Upanishads-Malayalam-VBalakrishnanDrRLeeladevi.pdf) |
+| 31 | Tripura Upanishad Sanskrit | त्रिपुरा उपनिषद संस्कृत | [Download](031_tripura-upanishad.pdf) |
+| 32 | 108 Upanishad Sanskrit with Summery | १०८ उपनिषद संस्कृत | [Download](032_108_upanishad-sanskrit-with-summary.pdf) |
+| 33 | Yoga Upanishad Sanskrit | योग उपनिषद संस्कृत | [Download](033_The-Yoga_upanishads_sanskrit.pdf) |
+| 34 | Dasopanishad vol. 1 Sanskrit | दासोपनिषद भाग १ | [Download](034_Dasopanishads-vol1-sanskrit-with-sanskrit-summary.pdf) |
+| 35 | Dasopanishad vol. 2 Sanskrit | दासोपनिषद भाग २ | [Download](035_Dasopanishads-vol2-sanskrit-with-sanskrit-summary.pdf) |
